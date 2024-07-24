@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  backend:
+    build:
+      context: ./server
+    ports:
+      - "5000:5000"
+
+  frontend:
+    build:
+      context: ./product-list-app
+    ports:
+      - "80:80"
