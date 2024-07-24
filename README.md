@@ -4,7 +4,7 @@ A product list application built with React for the frontend and Express for the
 
 ## Project Structure
 
-- `client/` - Contains the React frontend application.
+- `product-list-app/` - Contains the React frontend application.
 - `server/` - Contains the Express backend application.
 - `Dockerfile` - Dockerfile for the frontend.
 - `Dockerfile.server` - Dockerfile for the backend.
