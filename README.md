@@ -24,3 +24,4 @@ A product list application built with React for the frontend and Express for the
    ```bash
    git clone https://github.com/your-repo/product-list-app.git
    cd product-list-app
+   docker-compose up --build -d
